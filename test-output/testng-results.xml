@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-04T00:18:27Z" name="Default suite" finished-at="2023-07-04T00:18:29Z" duration-ms="1733">
+    <groups>
+    </groups>
+    <test started-at="2023-07-04T00:18:27Z" name="Default test" finished-at="2023-07-04T00:18:29Z" duration-ms="1733">
+      <class name="test.MonthDropDown">
+        <test-method signature="userRemovedAllItemsByToggleAll()[pri:0, instance:test.MonthDropDown@609db546]" started-at="2023-07-04T00:18:27Z" name="userRemovedAllItemsByToggleAll" finished-at="2023-07-04T00:18:29Z" duration-ms="1720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userRemovedAllItemsByToggleAll -->
+      </class> <!-- test.MonthDropDown -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
